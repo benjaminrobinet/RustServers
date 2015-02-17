@@ -1,0 +1,25 @@
+@media (max-width: 767px) {
+	.centered-xs {
+		text-align: center !important;
+	}
+	
+	nav#main #side{
+		text-align: right;
+		margin-top: 0px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.centered-sm {
+	  text-align: center !important;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+	.centered-md {
+		text-align: center !important;
+	}
+}
+@media (min-width: 1200px) {
+	.centered-lg {
+		text-align: center !important;
+	}
+}

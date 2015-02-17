@@ -1,0 +1,64 @@
+/* PAGE & SETTINGS */
+body,html{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background-color: rgba(236, 240, 241,1.0);
+}
+
+a{
+	cursor: pointer;
+}
+
+/* ! PAGE */
+
+/* TOOLS */
+.clear{
+	clear: both;
+	float: none;
+}
+
+.centered{
+	text-align: center !important;
+}
+/* ! TOOLS */
+
+/* HEADER */
+header{
+	width: 100%;
+	background-color: #1e2020;
+}
+
+nav#main img#logo{
+	width: 100%;
+	max-width: 250px;
+	padding: 10px 0;
+}
+
+nav#main #side{
+	text-align: right;
+	margin-top: 40px;
+	padding: 10px;
+}
+
+nav#main #side a.link{
+	color: white;
+}
+
+/* BUTTONS */
+.btn{
+	padding: 5px 10px;
+	display: inline-block;
+}
+
+.btn-rnd{
+	border-radius: 5px;
+}
+
+.btn-srnded{
+	border: 1px solid white;
+	background-color: rgba(255,255,255,0.1)
+}
+/* ! BUTTONS */
+
+/* WHO AM I */
